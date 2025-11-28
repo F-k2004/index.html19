@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>🌈 موج رنگی تعاملی</title>
-  <eta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body {
       margin: 0;
